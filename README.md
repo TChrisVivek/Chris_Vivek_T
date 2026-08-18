@@ -33,17 +33,13 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
+### 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TChrisVivek&show_icons=true&theme=radical)](https://github.com/TChrisVivek)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TChrisVivek&theme=radical)](https://github.com/TChrisVivek)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TChrisVivek&layout=compact&theme=radical)](https://github.com/TChrisVivek)
-
-</div>
 
 ---
 
