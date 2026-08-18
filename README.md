@@ -21,26 +21,33 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 <p align="center">
-  <!-- Frameworks & Backend -->
+  <!-- Frameworks, Backend & Cloud -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TChrisVivek&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TChrisVivek&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TChrisVivek&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/TChrisVivek">
+    <img src="https://github-readme-stats.vercel.app/api?username=TChrisVivek&amp;show_icons=true&amp;theme=radical" alt="GitHub Stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/TChrisVivek">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TChrisVivek&amp;theme=radical" alt="GitHub Streak" />
+  </a>
+  <br><br>
+  <a href="https://github.com/TChrisVivek">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TChrisVivek&amp;layout=compact&amp;theme=radical" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
