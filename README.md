@@ -40,7 +40,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/TChrisVivek">
-          <img src="https://github-readme-stats.vercel.app/api?username=TChrisVivek&show_icons=true&theme=radical" alt="GitHub Stats" />
+          <img height="180em" src="https://github-readme-stats.shion.dev/api?username=TChrisVivek&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
         </a>
       </td>
       <td align="center">
@@ -52,7 +52,7 @@
     <tr>
       <td align="center" colspan="2">
         <a href="https://github.com/TChrisVivek">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TChrisVivek&layout=compact&theme=radical" alt="Top Languages" />
+          <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=TChrisVivek&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
         </a>
       </td>
     </tr>
