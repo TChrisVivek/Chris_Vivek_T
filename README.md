@@ -64,10 +64,7 @@
 ### 🚀 Featured Projects
 *   **S-R Associates:** A complete web redesign and deployment project managing a Vercel frontend, Render backend, and Google authentication.
 *   **CMM Grid:** [Add a 1-2 sentence description here detailing what the project does and the tech stack used].
-*   **RouteHive:** A mobile navigation application tailored for urban athletes, built using Flutter and Firebase.
-*   **CyberConnect:** A scalable cybersecurity platform featuring robust role-based access control, built on the MERN stack.
-*   **Rail Sync:** A dynamic full-stack web application developed with Next.js.
-*   **GhostEmployee:** An autonomous AI worker prototype built on OpenClaw integrating JavaScript and Python.
+
 
 ### 🏆 Hackathons & Achievements
 *   **IBM TechXchange:** Earned a digital credential badge for automation prototypes in the watsonx Hackathon.
