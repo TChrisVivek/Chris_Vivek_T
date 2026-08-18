@@ -17,3 +17,7 @@ I'm a Computer Science Engineering student passionate about building scalable fu
 ### 🏆 Hackathons & Achievements
 *   **IBM TechXchange:** Earned a digital credential badge for automation prototypes in the watsonx Hackathon.
 *   **GDG on Campus Solution Challenge:** Technical prototype submission.
+
+
+### 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris_Vivek_T&layout=compact&theme=radical)
