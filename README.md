@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  I'm a Computer Science Engineering student passionate about building scalable full-stack applications, mobile experiences, and exploring new ways to solve complex problems.
+  I'm a Computer Science Engineering student passionate about building scalable full-stack applications and mobile experiences. When I'm not pushing code, you can usually find me riding and wrenching on motorcycles, hunting down the best local chicken spots, or exploring new ways to solve complex problems.
 </p>
 
 ---
@@ -33,13 +33,31 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TChrisVivek&show_icons=true&theme=radical)](https://github.com/TChrisVivek)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TChrisVivek&theme=radical)](https://github.com/TChrisVivek)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TChrisVivek&layout=compact&theme=radical)](https://github.com/TChrisVivek)
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/TChrisVivek">
+          <img src="https://github-readme-stats.vercel.app/api?username=TChrisVivek&show_icons=true&theme=radical" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/TChrisVivek">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=TChrisVivek&theme=radical" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://github.com/TChrisVivek">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TChrisVivek&layout=compact&theme=radical" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
